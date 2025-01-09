@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jamieroszel22.github.io/my_blog/'
+publishDir = 'docs'
 languageCode = 'en-us'
 title = 'Project Workbench'
 theme = 'ananke'
