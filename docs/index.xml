@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Workbench</title>
-    <link>https://jamieroszel22.github.io/my_blog/</link>
+    <link>http://localhost:1313/my_blog/</link>
     <description>Recent content on Project Workbench</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://jamieroszel22.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2025 12:54:19 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/my_blog/posts/first-post/</link>
+      <pubDate>Thu, 09 Jan 2025 12:54:19 -0500</pubDate>
+      <guid>http://localhost:1313/my_blog/posts/first-post/</guid>
+      <description>&lt;p&gt;Welcome to my new blog! I&amp;rsquo;m excited to share my thoughts and experiences here. This site was built using Hugo, a fast and flexible static site generator that lets me write content in Markdown.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lightning-fast performance&lt;/li&gt;&#xA;&lt;li&gt;Simple Markdown content creation&lt;/li&gt;&#xA;&lt;li&gt;Easy deployment and maintenance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s Next?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll be posting about technology, development, and my personal projects. Stay tuned for more content!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
